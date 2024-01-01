@@ -36,6 +36,6 @@
 
 后端：JAVA语言，SpringBoot框架，MySQL数据库，Maven依赖管理等；
 
-前台前端：layUI框架，HTML页面，Vue语法等技术。
+PC前端：layUI框架，HTML页面，Vue语法等技术。
 
-后台前端：基于Vue的UniAPP框架，编译成安卓APP。
+APP前端：基于Vue的UniAPP框架，编译成安卓APP。
